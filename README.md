@@ -1,6 +1,6 @@
 Get'em Choi :godmode:
 
-- project in progress : portfolio optimization and prediction for delisting
+- project in progress : portfolio optimization and prediction for delisting   
                         (private repository)
-- study in progress   : math for data analyst
+- study in progress   : math for data analyst   
                         (https://github.com/wooseok1152/python-data_science_school)
