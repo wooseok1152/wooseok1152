@@ -1,1 +1,1 @@
-Get'em Choi :goberserk:
+Get'em Choi :godmode:
