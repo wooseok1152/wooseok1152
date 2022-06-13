@@ -1,5 +1,8 @@
 # Get'em Choi
 
+### skill
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 ### project in progress
 - AutoML service(private repository)
 
