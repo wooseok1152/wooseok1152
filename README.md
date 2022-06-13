@@ -1,7 +1,5 @@
 # Get'em Choi :godmode:
 
----
-
 ### project in progress
 - AutoML service(private repository)
 
