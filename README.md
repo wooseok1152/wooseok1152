@@ -1,4 +1,4 @@
-### Get'em Choi :godmode:
+# Get'em Choi :godmode:
 
 ---
 
