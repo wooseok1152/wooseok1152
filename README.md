@@ -14,10 +14,15 @@
 # Project in progress
 1. AutoML service(private repository)
 
-    - making AutoML service in RealData
+    - make AutoML service in RealData
 
 # Study in progress
 1. math for data analyst(https://github.com/wooseok1152/python-data_science_school)
-2. data analysis with machine learning(https://github.com/wooseok1152/python-data_analysis)
+
+    - get used to using math and statistics skills
+
+3. data analysis with machine learning(https://github.com/wooseok1152/python-data_analysis)
+
+    - deal with a lot of examples of data analysis using machine learning
 
 # History of project
