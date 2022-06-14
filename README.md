@@ -49,7 +49,7 @@
 
     - organise SQL seminar
     - skill used : SQL(Oracle)
-    - what I've learned : how to conduct a seminar according to the level of the participant
+    - what I've learned : how to conduct a seminar according to the level of the participants
 
 5. AutoML service in RealData(classified, project in progress)
 
