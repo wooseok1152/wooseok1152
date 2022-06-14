@@ -55,3 +55,28 @@
 
     - make AutoML service in RealData
     - skill used : Python, Flask
+
+# History of other activities
+
+1. 「하둡 기반 빅데이터 통계분석」seminar in Statistics Training Institute(https://github.com/wooseok1152/hadoop-spark)
+
+    - organise「하둡 기반 빅데이터 통계분석」seminar and participate in the seminar as an assistant lecturer
+    - lecture material : https://www.youtube.com/channel/UC228keBTi389xndbSsSXCfA
+
+2. 「육군본부 맞춤형 통계의 이해 및 파이썬 통계분석」seminar in Statistics Training Institute
+
+    - organise「육군본부 맞춤형 통계의 이해 및 파이썬 통계분석」seminar and participate in the seminar as an assistant lecturer
+
+3. 「SAS 고급 통계분석」seminar in Statistics Training Institute
+
+    - organise「SAS 고급 통계분석」seminar and participate in the seminar as an assistant lecturer
+
+4. AI Challenge in KB bank(https://github.com/wooseok1152/python-KB_Finance_AI_Challenge)
+
+    - participate in the AI Challenge contest(4th place)
+    - skill used : Python, Keras
+
+# Certificates
+
+1. ADsP(데이터분석 준전문가, ADsP-0263634)
+2. SQLD(SQL 개발자, SQLD-0393861)
