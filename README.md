@@ -13,7 +13,7 @@
 
 # Project in progress
 1. AutoML service(private repository)
-  - making AutoML service in RealData
+    - making AutoML service in RealData
 
 # Study in progress
 1. math for data analyst(https://github.com/wooseok1152/python-data_science_school)
