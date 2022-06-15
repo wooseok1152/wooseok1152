@@ -33,7 +33,7 @@
 
     - make new contents using MyData(고수의 Pick, 투자상상퀴즈)
     - skill used : SQL(Oracle)
-    - what I've learned : how to get insight for making new contents from data analysis using SQL and collaborate with people in other professions
+    - what I've learned : how to get insight for making new contents from data analysis using SQL, collaborate with people in other professions and do SQL tuning considering explain plan
 
 2. MyData project in Kyobo securities(classified)
 
