@@ -12,11 +12,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooseok1152)](https://github.com/wooseok1152/github-readme-stats)
 
 # Project in progress
+
 1. AutoML service in RealData(classified)
 
     - make AutoML service in RealData
 
 # Study in progress
+
 1. math for data analyst(https://github.com/wooseok1152/python-data_science_school)
 
     - get used to using math and statistics skills
