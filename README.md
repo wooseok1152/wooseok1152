@@ -13,7 +13,7 @@
 
 # Project in progress
 
-1. AutoML service in RealData(classified)
+1. customer segmentation in KT(classified)
 
     - make AutoML service in RealData
 
@@ -53,10 +53,16 @@
     - skill used : SQL(Oracle)
     - what I've learned : how to conduct a seminar according to the level of the participants
 
-5. AutoML service in RealData(classified, project in progress)
+5. AutoML service in RealData(classified)
 
     - make AutoML service in RealData
     - skill used : Python, Flask
+    - what I've learned : how to collaborate with developers based on REST API
+    
+6. AutoML service in RealData(classified, project in progress) 
+
+    - customer segmentation in KT
+    - skill used : Apache Hadoop, Apache Hive, Presto, Python    
 
 # History of other activities
 
