@@ -15,7 +15,7 @@
 
 1. customer segmentation in KT(classified)
 
-    - make AutoML service in RealData
+    - conduct customer segmentation
 
 # Study in progress
 
@@ -59,9 +59,9 @@
     - skill used : Python, Flask
     - what I've learned : how to collaborate with developers based on REST API
     
-6. AutoML service in RealData(classified, project in progress) 
+6. customer segmentation in KT(classified, project in progress) 
 
-    - customer segmentation in KT
+    - conduct customer segmentation
     - skill used : Apache Hadoop, Apache Hive, Presto, Python    
 
 # History of other activities
