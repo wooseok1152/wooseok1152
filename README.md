@@ -11,6 +11,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooseok1152)](https://github.com/wooseok1152/github-readme-stats)
 
+# Resume(Korean version)
+
+- URL : https://github.com/wooseok1152/wooseok1152/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%B5%9C%EC%9A%B0%EC%84%9D.pdf
+
 # Project in progress
 
 1. customer segmentation in KT(classified)
