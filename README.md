@@ -13,7 +13,7 @@
 
 # Resume(Korean version)
 
-- URL : https://github.com/wooseok1152/wooseok1152/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%B5%9C%EC%9A%B0%EC%84%9D.pdf
+- URL : https://github.com/wooseok1152/wooseok1152/blob/main/Resume(Korean%20version).pdf
 
 # Project in progress
 
