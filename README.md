@@ -17,9 +17,9 @@
 
 # Project in progress
 
-1. customer segmentation in KT(classified)
+1. data analysis for products in KT(classified)
 
-    - conduct customer segmentation
+    - conduct automatic classification of product categories
 
 # Study in progress
 
@@ -63,9 +63,9 @@
     - skill used : Python, Flask
     - what I've learned : how to collaborate with developers based on REST API
     
-6. customer segmentation in KT(classified, project in progress) 
+6. data analysis for products in KT(classified, project in progress)
 
-    - conduct customer segmentation
+    - conduct automatic classification of product categories
     - skill used : Apache Hadoop, Apache Hive, Presto, Python    
 
 # History of other activities
