@@ -11,7 +11,6 @@
 <br>또한, 업무를 진행하는 과정에서 쉽게 지치지 않기 위해, 규칙적인 생활과 건전한 삶을 실천하려고 노력합니다. 
 <br>이런 태도를 꾸준히 유지한다면, 제가 속해있는 분야에서 인정받는 존재가 되어 있을 것이라 믿습니다.
 <br>
-<br>
 
 # Skill Stack
 
@@ -23,12 +22,10 @@
 
 - Email : wooseok9607@naver.com
 <br>
-<br>
 
 # Github
 
 - Github : https://github.com/wooseok1152
-<br>
 <br>
 
 # Career
@@ -49,10 +46,7 @@
         <br> 　(SQL Running Time이 ‘천 초대 또는 만 초대’나오는 작업들을 ‘십 초대 또는 백 초대’로 감소)
         <br> - 쿼리 튜닝을 통해, 기존 배치 프로그램에 영향을 끼치지 않는 안정성 확보
         <br> - 다른 마이데이터 서비스 프로젝트 수주의 기틀 마련
-        <br> 　(교보증권 마이데이터 서비스 구축 프로젝트)
-<br>
-<br>
-
+        <br> 　(교보증권 마이데이터 서비스 구축 프로젝트) <br><br>
   * **한국자산투자컨설팅(2022.05 ~ 2022.06, 1.5개월)**
     * ‘고객 포트폴리오 최적화’, ‘거래정지 종목 예측 모델링’프로젝트 일환으로, ‘주식 데이터 수집·전처리·분석’에 대한 데이터 파이프라인 구축
         <br> - 활용 기술 : SQL(MySQL), Python(Pandas), Windows Task Scheduler
@@ -60,7 +54,6 @@
         <br> - 고객사 사용자들에게 추후 거래 정지될 가능성이 높은 종목들을 알려줌으로써, 그들의 위험 투자를 예방함
     * Portfolio
         <br> - https://github.com/wooseok1152/project_of_Korea_Asset_Investment_Consulting.git
-<br>
 <br>
 
 * **데이터 컨설팅**
@@ -71,8 +64,7 @@
         <br> - 콘텐츠 : 통합자산조회, 소비현황집계, 주식 수익률 활용 게임
     * 성과
         <br> - 기획자에겐 마이데이터API로 수신되는 데이터 유형과 고객 자산 집계 방식에 대한 가이드를, 개발자에겐 고객 데이터 조회 쿼리의 속도 향상에 대한 가이드를 제공함으로써, 완성도 높은 서비스 개발에 일조함
-<br>
-<br>        
+<br>     
 
 * **데이터 분석**
   * **KT(2022.07 ~ [현재 진행중])**
@@ -80,8 +72,7 @@
         <br> - 활용 기술 : Hadoop, Hive, Presto, Python(Tensorflow, Keras, Pandas)
     * 성과
         <br> - 현재 기준, '75%'의 모델 성능(정확도) 달성
-<br>
-<br>        
+<br>   
 
 * **서비스 개발**
   * **리얼데이터(2022.06, 1개월)**
@@ -92,7 +83,6 @@
     * Portfolio
         <br> - https://github.com/wooseok1152/AutoML_in_Flask
 <br>
-<br>  
 
 * **교육**
   * **리얼데이터(2021.10, 2주)**
@@ -103,7 +93,6 @@
     * Portfolio
         <br> - https://github.com/wooseok1152/SQL_seminar
 <br>
-<br>  
 
 # Experience
 
@@ -112,7 +101,6 @@
   *  최종 산출물 
         <br> - https://github.com/wooseok1152/python-KB_Finance_AI_Challenge.git
 <br>
-<br> 
 
 * **대전 통계교육원 보조강사(2020.03 ~ 2020.11, 9개월)**
   * 「하둡 기반 빅데이터 통계분석」강의 보조강사
@@ -123,7 +111,6 @@
   * 「육군본부 맞춤형 통계의 이해 및 파이썬 통계분석」강의 보조강사
   * 「SAS 고급 통계분석」강의 보조강사
 <br>
-<br> 
 
 # Certificate
 
