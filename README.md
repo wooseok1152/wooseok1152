@@ -30,7 +30,7 @@
 
 # Career
 
-## **리얼데이터**
+<span style="font-size:150%">**리얼데이터**</span>
 <br>
 
 * **데이터 엔지니어링**
