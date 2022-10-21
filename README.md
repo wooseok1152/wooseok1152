@@ -30,7 +30,7 @@
 
 # Career
 
-## **(주)리얼데이터**
+### **1. (주)리얼데이터**
 <br>
 
 * **데이터 엔지니어링**
@@ -95,7 +95,7 @@
         <br> - https://github.com/wooseok1152/SQL_seminar
 <br>
 
-## **(주)버즈앤비**
+### **2. (주)버즈앤비**
 <br>
 
 # Experience
